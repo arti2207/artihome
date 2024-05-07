@@ -1,5 +1,5 @@
 # artihome
 This is my home requirements repo
-bar table
-sofa
+<b>bar table
+<b>sofa
 
